@@ -17,7 +17,9 @@ For Compiling, first you need to setup the corresponding link library and
 include search path for OpenCV and FlyCapture2. After all the paths have been
 correctly specified, the VS project should build. 
 
-The capturing code essential implements [[Nayar et al. 2006](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Krishnan_TOG06.pdf)]. 
+The capturing code essentially implements the following paper --
+[Fast Separation of Direct and Global Components of a Scene using High Frequency Illumination](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Krishnan_TOG06.pdf),
+SIGGRAPH 2006. 
 With the following tweaks in the software/hardware setup:
 - Instead of regular black and white checkerboard, we use red to replace white.
 - Cross polarizers are used to reduce the specular highlight impacts.
