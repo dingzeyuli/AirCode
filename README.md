@@ -1,14 +1,12 @@
 # AirCode: Unobtrusive Physical Tags for Digital Fabrication 
 
-
 [Dingzeyu Li](http://dingzeyu.li/), [Avinash S. Nair](https://www.linkedin.com/in/avinash-s-nair), [ Shree K. Nayar](http://www.cs.columbia.edu/~nayar/), [Changxi Zheng](http://www.cs.columbia.edu/~cxz/)<br>
 *ACM Symposium on User Interface Software and Technology (UIST), Paper, 2017*<br/>
+Project page: http://www.cs.columbia.edu/cg/aircode/
 
-This 
+![robotic grasping](http://www.cs.columbia.edu/cg/aircode/imgs/figure_robot_mug.jpg)
 
-Source code is hosted on this GitHub repository. The program is built and tested on MacOS system with AppleClang.
-
-### Downloading
+### Download
 ```bash
 git clone https://github.com/dingzeyuli/AirCode.git
 ```
